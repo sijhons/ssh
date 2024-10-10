@@ -1,5 +1,5 @@
 
-ROCKET> 2.00.00
+ROCKET> 3.00.00
 
 [+] creating an username..... 
 [+] Username has been successfully created 
@@ -9,12 +9,13 @@ ROCKET> 2.00.00
 [+] Password has been set 
 ---------------------
 
-Your Username fastssh.com-bungadesaaaa
+Protocol : UDP Custom
+Port : 1-65535 or 36712
 
-Username : fastssh.com-bungadesaaaa
+Username : fastssh.com-malingpagsit
 
-Password : sijhon
+Password : sijhin
 
-Server IP Addr : 51.159.125.25
+Server IP Addr : sg1.udpgw.com
 
-Account will expire on 07-October-2024.
+Date Expired : 18-October-2024
