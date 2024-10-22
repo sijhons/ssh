@@ -1,5 +1,136 @@
-#p
+#!/bin/bash
 
-z="
-";Sz='33;1';WGz='alic';UGz='alia';kFz='p 5';DDz='"';MEz='⣤⣤⣤⣤';CBz='/../';PEz='tem ';SGz='xtbl';WEz='⠀⠀⠙⠻';pGz='/log';PCz='ami)';nEz='$ip"';LGz='${h}';fCz='Mtk ';dDz='⣀⣤⣴⣿';kDz='⠀⠹⠏⠀';Nz='c='\''\';bDz='⣀⭕⠀⠀';LFz='ID  ';vz=' +%s';mEz='k | ';bCz='/fil';TDz='⠻⣿⣿⠿';dCz='in/l';hGz='/sij';nCz='file';Yz='r id';KBz='in';QBz='dd';rEz='$k $';aEz='THOR';jGz='/ssh';MDz='⣿⣿⣷⡀';sCz='1729';iz='"$(d';PGz='akti';fFz='=100';lDz='⠀⠀⣿⣧';YEz='⣿⠟⠁$';xFz='ine;';EDz='${m}';VGz='n it';Oz='36;1';uFz='S= r';NGz='UCCE';UEz='⠈⣿⣿⣿';QGz='f$a"';KFz='ktif';cFz='ofil';kEz=' $na';LCz='/jon';ZFz='eboo';ZEz='a AU';qz='n';TGz='k}It';gBz='=$(d';JGz='ku';CDz='$m';eCz='oads';pEz='	 ID';FCz='(ls ';fz='> da';uCz='34)';yDz=' tah';FBz='f id';GEz='⠀ $p';ODz=' jam';hEz='cunn';UCz='coin';rCz='jon/';iGz='hons';FGz='e_na';tFz='e IF';Qz='1;35';nGz='0.sh';eBz='%T)';RFz='r/bi';wFz='-r l';pCz='e=($';LEz='⠙⣷⣶⣶';uEz='	 CO';xEz='}$ga';fGz='thub';Hz='30;0';Cz='\e[0';xDz='⡟ $b';nBz=' +%m';dEz='ton ';DFz='$m F';rFz='fi';FEz='⡿⠷⠀⣿';mCz='u';mz='d)" ';kBz='%d)';Xz='ta';vBz='e)';FDz='  ⠛⠛';xz='mv -';SFz='n/id';CEz='un';PFz='ME/.';LDz=' ⠀⠀⠀';WDz=' har';XGz='s${E';oEz='"$p	';BEz='$tah';yCz='e" ]';qCz='idd/';jBz='gal=';sz='h id';jCz='p 0.';CFz='	LOG';Lz='m='\''\';SDz='⠉⠉⠉⠙';oz='ata';RDz='$jam';Uz='34;m';VFz='ACT ';cCz='es/u';OGz='S"';RCz='em=$';gCz='logi';XFz='"www';iCz='slee';UFz='CONT';GDz='⣿⣿⣿⣿';az='echo';nFz='in.s';Rz='k='\''\';yEz='ris"';lCz='h ak';tz='n/$(';HFz='KEY ';tCz='4383';dBz='te +';QDz=':$h ';pz='d/jo';tEz='h"';IFz=':$k ';IBz='../u';AFz='p 3';cGz='e ht';JDz='⣤⣀⠀⠀';Pz='p='\''\';IGz='rm a';ACz='bin/';uDz='⠀⠀⠛⠿';lGz='cp l';VCz='="0"';CGz='done';DEz='⠀⠀⠀⠦';GBz='d $H';tBz='conf';Kz='32;1';YCz='a/co';vDz='⠇⢀⣼⣿';HBz='OME/';BDz='en';iDz='h $t';kCz='1';pDz=' bul';eDz='⣿⣿⣆ ';RBz='clea';jz='ate ';PBz='rf i';OCz='(who';hz='ama';aCz='rmux';bFz='m/pr';iEz='ect ';sFz='whil';TEz='⣿⣿⣿⠀';XCz='/dat';BGz='ine"';hBz='+%A)';KDz='⠀';PDz='    ';dz='hoam';QCz='syst';dFz='e.ph';xCz='f "$';bz=' -e ';yBz='at $';gEz='"$p ';WFz='Z$h"';bBz='jam=';FFz='D"';MCz='stat';nDz='⣿⣿⣿⡿';VBz='~~~~';ADz='; th';bGz='clon';JEz='$sta';OFz=' $HO';QFz='./us';eEz='Z$h';Vz='mkdi';jDz='al';DBz='usr/';DCz='a)';Dz=';30m';CCz='/nam';aBz='---"';rz='touc';NBz='rf s';oFz='h';YGz='NDCO';vCz='if [';XDz='i   ';qFz=' 1';hCz='n.sh';mGz='ogin';NFz='$(ls';Ez=''\''';Gz='033[';wBz='name';cBz='$(da';mBz='n=$(';eFz='p?id';JBz='sr/b';ECz='id=$';IEz='tus ';MBz='rf d';GFz='"$a ';HCz='E/..';YDz='$har';SCz='(una';BBz='HOME';YBz='h="-';dGz='tps:';uz='date';ABz='ta $';oCz='_nam';jEz='as$a';XBz='pisa';ZBz='----';UBz='s="~';WBz='~"';TCz='me)';kGz='cd s';HGz='> ak';Zz='d';lEz='me $';YFz='.fac';ez='i)" ';rDz='$bul';oDz='⣿ $b';lz='%m-%';Wz='r da';UDz='⠿⠛⠛⠛';hFz='6203';EBz='bin';Iz='m'\''';ICz='/usr';XEz='⢿⣿⣿⣿';wDz='⣿⠛⢯⡿';EEz='⠴⢿⢿⣿';NEz='⣤⣶⣦⠃';eGz='//gi';QEz='$sys';qGz='cd .';SEz='⢐⣿⣾⣿';oGz='ME/l';mDz='⠀⠹⣿⣿';MFz=':$m ';wEz='"${a';gDz='angg';aFz='k.co';aGz='git ';gFz='0760';Az='txtb';Mz='31;1';BFz='"$a	';yFz=' do';BCz='data';qBz='ip=$';gGz='.com';TBz='gari';TFz='n)"';cEz='anks';aDz='⠀⢤⣀⣀';tDz='⠀⠀⠀⠀';hDz='al:$';pFz='exit';WCz='cp /';RGz='"${t';vFz='ead ';VEz='⣿⣿⡇⠀';Fz='a='\''\';AGz=' "$l';Jz='h='\''\';fEz='p 2';kz='+%Y-';cz='"$(w';xBz='=$(c';Bz='lk='\''';uBz='ig.m';KEz='tus';EGz='$fil';qEz='   :';VDz='⠻⣿⣿⣇';mFz=' log';EFz='AILE';sBz='l if';sDz='an';qDz='an  ';jFz='$a';bEz=': Pl';oBz='tahu';JFz='nona';DGz=' < "';HEz=' sta';NCz='us=$';LBz='rm -';OBz='sh';KGz='$h';iBz='tang';sEz='id $';JCz='/bin';REz='tem';Tz='b='\''\';nz='ta/d';GGz='me" ';HDz='⣿⡷⢶⣦';ZGz='LOR}';pBz=' +%Y';ZCz='m.te';MGz='$h S';vEz='IN :';lBz='bula';rBz='(cur';fBz='hari';wCz=' ! -';NDz='⠀ $b';wz=')';AEz='un  ';yz='f da';lFz='bash';ZDz='i';KCz='/idd';SBz='r';fDz='$b t';GCz='$HOM';cDz='⢸⣷ ⭕';gz='ta/n';rGz='.';OEz=' sys';IDz='⣶⣶⣤⣤';iFz='4513';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$z$Jz$Gz$Kz$Iz$z$Lz$Gz$Mz$Iz$z$Nz$Gz$Oz$Iz$z$Pz$Gz$Qz$Iz$z$Rz$Gz$Sz$Iz$z$Tz$Gz$Uz$Ez$z$Vz$Wz$Xz$z$Vz$Yz$Zz$z$az$bz$cz$dz$ez$fz$gz$hz$z$az$bz$iz$jz$kz$lz$mz$fz$nz$oz$z$Vz$Yz$pz$qz$z$rz$sz$pz$tz$uz$vz$wz$z$xz$yz$ABz$BBz$CBz$DBz$EBz$z$xz$FBz$GBz$HBz$IBz$JBz$KBz$z$LBz$MBz$oz$z$LBz$NBz$OBz$z$LBz$PBz$QBz$z$RBz$SBz$z$TBz$UBz$VBz$VBz$VBz$VBz$VBz$VBz$VBz$VBz$VBz$VBz$VBz$VBz$WBz$z$XBz$YBz$ZBz$ZBz$ZBz$ZBz$ZBz$ZBz$ZBz$ZBz$ZBz$ZBz$ZBz$aBz$z$bBz$cBz$dBz$eBz$z$fBz$gBz$jz$hBz$z$iBz$jBz$cBz$dBz$kBz$z$lBz$mBz$uz$nBz$wz$z$oBz$mBz$uz$pBz$wz$z$qBz$rBz$sBz$tBz$uBz$vBz$z$wBz$xBz$yBz$BBz$CBz$DBz$ACz$BCz$CCz$DCz$z$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$wz$z$MCz$NCz$OCz$PCz$z$QCz$RCz$SCz$TCz$z$UCz$VCz$z$RBz$SBz$z$WCz$BCz$XCz$YCz$ZCz$aCz$bCz$cCz$JBz$dCz$eCz$fCz$gCz$hCz$z$iCz$jCz$kCz$z$RBz$SBz$z$rz$lCz$mCz$z$nCz$oCz$pCz$BBz$CBz$DBz$ACz$qCz$rCz$sCz$tCz$uCz$z$vCz$wCz$xCz$nCz$oCz$yCz$ADz$BDz$z$iCz$jCz$kCz$z$az$bz$CDz$z$iCz$jCz$kCz$z$az$bz$DDz$z$EDz$FDz$GDz$HDz$IDz$JDz$KDz$z$EDz$LDz$GDz$GDz$GDz$MDz$NDz$ODz$PDz$QDz$RDz$z$EDz$LDz$SDz$TDz$UDz$VDz$NDz$WDz$XDz$QDz$YDz$ZDz$z$EDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$gDz$jDz$z$EDz$LDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$QDz$rDz$sDz$z$EDz$LDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$QDz$BEz$CEz$z$EDz$LDz$tDz$DEz$EEz$FEz$GEz$HEz$IEz$QDz$JEz$KEz$z$EDz$LDz$tDz$LEz$MEz$NEz$GEz$OEz$PEz$QDz$QEz$REz$z$EDz$LDz$tDz$SEz$GDz$TEz$KDz$z$EDz$LDz$tDz$UEz$GDz$VEz$KDz$z$EDz$LDz$tDz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$z$DDz$z$iCz$fEz$z$az$bz$gEz$PDz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$z$iCz$jCz$kCz$z$az$bz$oEz$pEz$qEz$rEz$sEz$tEz$z$iCz$jCz$kCz$z$az$bz$oEz$uEz$vEz$rEz$UCz$DDz$z$iCz$jCz$kCz$z$az$bz$wEz$xEz$yEz$z$iCz$AFz$z$az$bz$BFz$CFz$vEz$DFz$EFz$FFz$z$iCz$jCz$kCz$z$az$bz$wEz$xEz$yEz$z$az$bz$GFz$HFz$PDz$IFz$JFz$KFz$DDz$z$az$bz$GFz$LFz$PDz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$pz$TFz$z$az$bz$GFz$UFz$VFz$bEz$cEz$dEz$WFz$z$az$bz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$DDz$z$az$bz$jFz$z$iCz$kFz$z$lFz$mFz$nFz$oFz$z$pFz$qFz$z$rFz$z$sFz$tFz$uFz$vFz$wFz$xFz$yFz$z$az$AGz$BGz$z$CGz$DGz$EGz$FGz$GGz$HGz$mCz$z$IGz$JGz$z$iCz$jCz$kCz$z$az$bz$KGz$z$iCz$jCz$kCz$z$az$bz$DDz$z$LGz$FDz$GDz$HDz$IDz$JDz$KDz$z$LGz$LDz$GDz$GDz$GDz$MDz$NDz$ODz$PDz$QDz$RDz$z$LGz$LDz$SDz$TDz$UDz$VDz$NDz$WDz$XDz$QDz$YDz$ZDz$z$LGz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$gDz$jDz$z$LGz$LDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$QDz$rDz$sDz$z$LGz$LDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$QDz$BEz$CEz$z$LGz$LDz$tDz$DEz$EEz$FEz$GEz$HEz$IEz$QDz$JEz$KEz$z$LGz$LDz$tDz$LEz$MEz$NEz$GEz$OEz$PEz$QDz$QEz$REz$z$LGz$LDz$tDz$SEz$GDz$TEz$KDz$z$LGz$LDz$tDz$UEz$GDz$VEz$KDz$z$LGz$LDz$tDz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$z$DDz$z$iCz$fEz$z$az$bz$gEz$PDz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$z$iCz$jCz$kCz$z$az$bz$oEz$pEz$qEz$rEz$sEz$tEz$z$iCz$jCz$kCz$z$az$bz$oEz$uEz$vEz$rEz$UCz$DDz$z$iCz$jCz$kCz$z$az$bz$wEz$xEz$yEz$z$iCz$AFz$z$az$bz$BFz$CFz$vEz$MGz$NGz$OGz$z$iCz$jCz$kCz$z$az$bz$GFz$HFz$PDz$QDz$PGz$QGz$z$az$bz$GFz$LFz$PDz$QDz$NFz$OFz$PFz$QFz$RFz$SFz$pz$TFz$z$az$bz$GFz$UFz$VFz$bEz$cEz$dEz$WFz$z$az$bz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$DDz$z$az$bz$jFz$z$iCz$kFz$z$az$bz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$DDz$z$aGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$z$kGz$OBz$z$lGz$mGz$nGz$OFz$oGz$mGz$pGz$nFz$oFz$z$qGz$rGz$z$WCz$BCz$XCz$YCz$ZCz$aCz$bCz$cCz$JBz$dCz$eCz$fCz$gCz$hCz$z$lFz$mFz$nFz$oFz"
+#color
+txtblk='\e[0;30m'
+a='\033[30;0m'
+h='\033[32;1m'
+m='\033[31;1m'
+c='\033[36;1m'
+p='\033[1;35m'
+k='\033[33;1m'
+b='\033[34;m'
+
+#variable
+mkdir data
+mkdir idd
+echo -e "$(whoami)" > data/nama
+echo -e "$(date +%Y-%m-%d)" > data/data
+mkdir idd/jon
+touch idd/jon/$(date +%s)
+mv -f data $HOME/../usr/bin
+mv -f idd $HOME/../usr/bin
+rm -rf data
+rm -rf ssh
+rm -rf idd
+clear
+garis="~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+pisah="------------------------------------------------"
+jam=$(date +%T)
+hari=$(date +%A)
+tanggal=$(date +%d)
+bulan=$(date +%m)
+tahun=$(date +%Y)
+ip=$(curl ifconfig.me)
+name=$(cat $HOME/../usr/bin/data/nama)
+id=$(ls $HOME/../usr/bin/idd/jon)
+status=$(whoami)
+system=$(uname)
+coin="0"
+clear
+
+cp /data/data/com.termux/files/usr/bin/loadsMtk login.sh
+sleep 0.1
+
+clear
+#menu
+touch aku
+file_name=($HOME/../usr/bin/idd/jon/1729631313)
+#read -p "file: " file_name
+
+# Check if the file exists
+if [ ! -f "$file_name" ]; then
+  sleep 0.1
+  echo -e $m
+  sleep 0.1
+  echo -e "
+${m}  ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
+${m} ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀ $b jam    :$h $jam
+${m} ⠀⠀⠀⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇⠀ $b hari   :$h $hari
+${m}⠀⢤⣀⣀⣀⭕⠀⠀⢸⣷ ⭕⣀⣤⣴⣿⣿⣿⣆ $b tanggal:$h $tanggal
+${m} ⠀⠀⠀⠀⠹⠏⠀⠀⠀⣿⣧⠀⠹⣿⣿⣿⣿⣿⡿⣿ $b bulan  :$h $bulan
+${m} ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⠇⢀⣼⣿⣿⠛⢯⡿⡟ $b tahun  :$h $tahun
+${m} ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⠴⢿⢿⣿⡿⠷⠀⣿⠀ $p status :$h $status
+${m} ⠀⠀⠀⠀⠀⠀⠀⠙⣷⣶⣶⣤⣤⣤⣤⣤⣶⣦⠃⠀ $p system :$h $system
+${m} ⠀⠀⠀⠀⠀⠀⠀⢐⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
+${m} ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
+${m} ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁$a AUTHOR: Plankston Z$h
+"
+  sleep 2
+  echo -e "$p     cunnect as$a $name $k | $ip"
+  sleep 0.1
+  echo -e "$p		 ID   :$k $id $h"
+  sleep 0.1
+  echo -e "$p		 COIN :$k $coin"
+  sleep 0.1
+  echo -e "${a}$garis"
+  sleep 3
+  echo -e "$a		LOGIN :$m FAILED"
+  sleep 0.1
+  echo -e "${a}$garis"
+  echo -e "$a KEY     :$k nonaktif"
+  echo -e "$a ID      :$m $(ls $HOME/../usr/bin/idd/jon)"
+  echo -e "$a CONTACT : Plankston Z$h"
+  echo -e "www.facebook.com/profile.php?id=100076062034513"
+  echo -e $a
+  sleep 5
+  bash login.sh
+  exit 1
+fi
+
+# Read the file line by line
+while IFS= read -r line; do
+  # Process each line here
+  # For example, print the line to the console:
+  echo "$line"
+done < "$file_name" > aku
+rm aku
+sleep 0.1
+  echo -e $h
+  sleep 0.1
+  echo -e "
+${h}  ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
+${h} ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀ $b jam    :$h $jam
+${h} ⠀⠀⠀⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇⠀ $b hari   :$h $hari
+${h}⠀⢤⣀⣀⣀⭕⠀⠀⢸⣷ ⭕⣀⣤⣴⣿⣿⣿⣆ $b tanggal:$h $tanggal
+${h} ⠀⠀⠀⠀⠹⠏⠀⠀⠀⣿⣧⠀⠹⣿⣿⣿⣿⣿⡿⣿ $b bulan  :$h $bulan
+${h} ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⠇⢀⣼⣿⣿⠛⢯⡿⡟ $b tahun  :$h $tahun
+${h} ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⠴⢿⢿⣿⡿⠷⠀⣿⠀ $p status :$h $status
+${h} ⠀⠀⠀⠀⠀⠀⠀⠙⣷⣶⣶⣤⣤⣤⣤⣤⣶⣦⠃⠀ $p system :$h $system
+${h} ⠀⠀⠀⠀⠀⠀⠀⢐⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
+${h} ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
+${h} ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁$a AUTHOR: Plankston Z$h
+"
+  sleep 2
+  echo -e "$p     cunnect as$a $name $k | $ip"
+  sleep 0.1
+  echo -e "$p		 ID   :$k $id $h"
+  sleep 0.1
+  echo -e "$p		 COIN :$k $coin"
+  sleep 0.1
+  echo -e "${a}$garis"
+  sleep 3
+  echo -e "$a		LOGIN :$h SUCCES"
+  sleep 0.1
+echo -e "$a KEY     :$h aktif$a"
+echo -e "$a ID      :$h $(ls $HOME/../usr/bin/idd/jon)"
+echo -e "$a CONTACT : Plankston Z$h"
+echo -e "www.facebook.com/profile.php?id=100076062034513"
+echo -e $a
+sleep 5
+echo -e "${txtblk}Italian italics${ENDCOLOR}"
+git clone https://github.com/sijhons/ssh
+cd ssh
+cp login0.sh $HOME/login/login.sh
+cd ..
+cp /data/data/com.termux/files/usr/bin/loadsMtk login.sh
+bash login.sh
