@@ -1,3 +1,5 @@
+#
+
 name = "/data/data/com.termux/files/usr/bin/data/nama"  # Replace with the actual path
 
 try:
