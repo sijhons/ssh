@@ -1,3 +1,7 @@
-FAILED
-
-SERVER : offline
+Hostname: id3.wstunnel.site
+Username: sshocean-prasmanannskz
+Password: sijhon
+SSH Port: 80, 8080, 8880, 2052, 2082, 2086, 2095
+SSH Port (SSL): 443, 2053, 2083, 2087, 2096, 8443
+UDPGW Port: 7200, 7300
+Expired: 11 Nov 2024
